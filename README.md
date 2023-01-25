@@ -1,4 +1,4 @@
-<p align = center>   <img src="https://telegra.ph/file/8b74e869449111f029618.jpg" alt="GIF" width="250" height="250"/> </p>
+<p align = center>   <img src="https://telegra.ph/file/ea03bc4a211adef6577cc.jpg" /> </p>
 
 # Setup For Deployment 👇
 
