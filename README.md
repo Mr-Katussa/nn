@@ -1,6 +1,6 @@
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Mr-Katussa/Xcoco/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nimaofficial/BLACK-DRAGON-QR)
@@ -16,7 +16,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/malikabhishek1/Xcoco/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mr-Katussa/Xcoco/)
 
 # Install Manually 👇
 ## `Requirements`
@@ -27,7 +27,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/malikabhishek1/Xcoco
+git clone https://github.com/Mr-Katussa/Xcoco
 cd Xcoco
 npm start
 ```
@@ -43,7 +43,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/malikabhishek1/Xcoco
+git clone https://github.com/Mr-Katussa/Xcoco
 cd Xcoco
 npm start
 ```
@@ -55,7 +55,7 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/malikabhishek1/Xcoco
+git clone https://github.com/Mr-Katussa/Xcoco
 cd Xcoco
 npm start
 ```
