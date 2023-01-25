@@ -1,3 +1,5 @@
+<p align = center>   <img src="https://telegra.ph/file/8b74e869449111f029618.jpg" alt="GIF" width="900" height="900"/> </p>
+
 # Setup For Deployment 👇
 
 - FORK THE REPOSITORY [Here](https://github.com/Mr-Katussa/Xcoco/fork)
