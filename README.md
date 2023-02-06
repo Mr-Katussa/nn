@@ -4,7 +4,7 @@
 
 - FORK THE REPOSITORY [Here](https://github.com/Mr-Katussa/Xcoco/fork)
 
-## `Scan QR Code For Session`
+## `⨷ SCAN QR`
 [![Xcoco Md](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Mr-Katussa/XCOCO-QR)
 
  ` BUILDPACKS`
