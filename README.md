@@ -67,7 +67,7 @@ npm start
 ```bash
 npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 ```
-## `⨷ Deploy To Uffizzi` 
+## `⨷ Deploy To Uffizzi✅` 
 
 ```bash
 first you fork the repo and edit settings.js!, add session.json file & your credits!
