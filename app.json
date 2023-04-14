@@ -1,8 +1,8 @@
 {
-  "name": "Black-Dragon",
+  "name": "𝘋𝘈𝘙𝘒-𝘛𝘏𝘜𝘚𝘏𝘈𝘕",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/nimaofficial/Black-Dragon",
-  "logo": "https://telegra.ph/file/1cc504a3c4a1d49107bfc.jpg",
+  "logo": "https://i.imgur.com/Dmm0UG4.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
