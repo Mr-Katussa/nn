@@ -16,15 +16,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['94710109956'] //ur owner number
 global.ownername = "𝘛𝘏𝘜𝘚𝘏𝘈𝘕-𝘔𝘋" //ur owner name
-global.ytname = "YT: Sandaru Yt" //ur yt chanel name
+global.ytname = "YT: THUSHAN Yt" //ur yt chanel name
 global.socialm = "GitHub: Mr-Katussa" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
 global.ownernomer = "94710109956" //ur number
 global.premium = ['94710109956'] //ur premium number
-global.botname = '𝘋𝘈𝘙𝘒 𝘛𝘏𝘜𝘚𝘏𝘈𝘕 𝘔𝘋-𝘉𝘖𝘛' //ur bot name
-global.themeemoji = "♻️" //ur theme emoji
+global.botname = '💖𝘋𝘈𝘙𝘒 𝘛𝘏𝘜𝘚𝘏𝘈𝘕 𝘔𝘋-𝘉𝘖𝘛💖' //ur bot name
+global.themeemoji = "💖" //ur theme emoji
 global.packname = "Sticker By Xcoco" //ur sticker watermark packname
 global.author = "Xcoco" //ur sticker watermark author
 global.wm = "XCOCO BOT INC" //ur watermark
