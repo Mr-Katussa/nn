@@ -1,4 +1,4 @@
-<p align = center>   <img src="https://telegra.ph/file/ea03bc4a211adef6577cc.jpg" /> </p>
+<p align = center>   <img src="https://i.imgur.com/yRpTGLm.jpeg" /> </p>
 
 # Setup For Deployment 👇
 
