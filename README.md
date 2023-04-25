@@ -84,3 +84,7 @@ first you fork the repo and edit settings.js!, add session.json file & your cred
   [Click here to deploy on Uffizzi](https://app.uffizzi.com/projects)
 <br>
 
+<h1 align="center">Owner</h1>
+
+<a href="https://github.com/Mr-Katussa"><img src="https://github.com/Mr-Katussa.png" width="200" height="200" alt="ImYanXiao"/></a>
+
